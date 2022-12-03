@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 02 Dec 2022 22:25:50 -0600
+Source: bills
+Binary: python3-bills
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Maclinunix <maxlinunix@gmail.com>
+Changed-By: Maclinunix <maxlinunix@gmail.com>
+Description:
+ python3-bills - Setup a bills list, DEB package
+Changes:
+ bills (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 421c6a9b97576dc854029618ff93373c1030b2a4 6328 bills_1.0-1_amd64.buildinfo
+ 774b70fadc5e276197236ec324a0af811a9d1543 4270 python3-bills_1.0-1_all.deb
+Checksums-Sha256:
+ f19d48b1ece274e417cabb1c3dce06b8a82acfc12c21c21a0320061011a7dd9a 6328 bills_1.0-1_amd64.buildinfo
+ 336f939017a1c6bbc8cc0bc735993cc35e52e1e3f6ee6c3b9777dc6048a31e60 4270 python3-bills_1.0-1_all.deb
+Files:
+ f9bce7a4b6c47836f2c2c332bf5e0f84 6328 python optional bills_1.0-1_amd64.buildinfo
+ e8cc50c71a21930a9ac828922c309a11 4270 python optional python3-bills_1.0-1_all.deb

@@ -1,0 +1,3 @@
+[console_scripts]
+bills = bills.bills:main
+

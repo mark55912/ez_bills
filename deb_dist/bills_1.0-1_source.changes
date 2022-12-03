@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 02 Dec 2022 22:25:50 -0600
+Source: bills
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Maclinunix <maxlinunix@gmail.com>
+Changed-By: Maclinunix <maxlinunix@gmail.com>
+Changes:
+ bills (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ e600c3cec577bb873b7bfdbb234971b342a11238 793 bills_1.0-1.dsc
+ f248d6af82172814783b307902dde08be2a644d9 3801 bills_1.0.orig.tar.gz
+ c5bb46a9c1f295cdcbc525621a334e8d962d3cd7 1000 bills_1.0-1.debian.tar.xz
+ ba5e3675b8aefb912512014d870f1a922c8e9668 6270 bills_1.0-1_source.buildinfo
+Checksums-Sha256:
+ 5c28b0845d85191aec1a7b3f9a20fd65f4e15d9ce6c58b34213e3d370fe7a114 793 bills_1.0-1.dsc
+ 2f33fc765757a567b499d4227e8e55e2a6d8bd346adeb337540860a21da67660 3801 bills_1.0.orig.tar.gz
+ e13c6291f8cbd8a6a2e538ea3f594055f83745e9fa0981503b083fd367367f70 1000 bills_1.0-1.debian.tar.xz
+ 5fc7c87e38759f82b0f173c31c1dbe1dd3fed69e167dd6edd0ac13e5dda60909 6270 bills_1.0-1_source.buildinfo
+Files:
+ 4d655259e1924e25483198ed337720b1 793 python optional bills_1.0-1.dsc
+ 63cef664feec8b51cae0cb47f316ed6d 3801 python optional bills_1.0.orig.tar.gz
+ 0134081e160e030a7eb4efb632ca597f 1000 python optional bills_1.0-1.debian.tar.xz
+ c7e557b37246caf740c39c28082e22bd 6270 python optional bills_1.0-1_source.buildinfo
