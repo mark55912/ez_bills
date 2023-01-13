@@ -7,7 +7,7 @@ $ dpkg -i package
 
 ## Usage
 
-Use to create a list of of your bills.
+Use to create a list of your bills.
 
 ## License
 
