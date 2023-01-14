@@ -9,7 +9,7 @@ import requests
 today = datetime.today()
 NAME = getpass.getuser()
 
-
+# I would use the line below for macOS.
 # with open(f"/Users/{NAME}/.data.json", "r") as data_file:
 print('''  ╔╗ ╦╦  ╦  ╔═╗
   ╠╩╗║║  ║  ╚═╗
